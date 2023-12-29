@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Display incidents by technician/1.0.0": {
+        "runtime": {
+          "Display incidents by technician.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Display incidents by technician/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

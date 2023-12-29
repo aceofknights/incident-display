@@ -1,0 +1,18 @@
+27|1010|LEAG10    |14|2/5/2023|2/6/2023|Could not install|Media appears to be bad.
+28|1117|TRNY20    |11|2/14/2023|2/15/2023|Error importing data|Received error message 415 while trying to import data from previous version.
+29|1116|DRAFT10   |13|2/20/2023|2/22/2023|Could not install|Setup failed with code 104.
+30|1010|TEAM10    |14|2/21/2023|2/22/2023|Error launching program|Program fails with error code 510, unable to open database.
+31|1010|TRNY20    |14|2/21/2023|2/25/2023|Unable to activate product|Customer's product activation key does not work.
+32|1056|TRNY20    |12|2/25/2023|2/28/2023|Product activation error|Customer could not activate product because of an invalid product activation code.
+34|1018|DRAFT10   |13|3/2/2023|3/3/2023|Error launching program|Program fails with error code 340: Database exceeds size limit.
+36|1065|LEAG10    |14|3/5/2023|3/7/2023|Error adding data|Received error message 201 when trying to add records: database must be reorganized.
+42|1097|TRNY20    |11|3/9/2023|3/11/2023|Unable to import data|Import command not available for importing data from previous version.
+44|1063|LEAG10    |13|3/9/2023|3/10/2023|Installation error|Error during installation: cmd.exe not found.
+45|1089|LEAGD10   |12|3/9/2023|3/13/2023|Problem upgrading from League Scheduler 1.0|Program fails with error 303 when trying to install upgrade.
+46|1016|TEAM10    |14|3/9/2023|3/12/2023|Unable to restore data from backup|Error 405 encountered while restoring backup: File not found.
+47|1034|DRAFT10   |13|3/9/2023||Can't activate product|Product activation code invalid.
+48|1049|TRNY20    |11|3/9/2023||Unable to print brackets|Program doesn't recognize printer.
+49|1083|LEAGD10   |14|3/10/2023||Can't start application|Error 521 on startup: database must be reorganized.
+50|1116|DRAFT10   ||3/10/2023||Error during data file backup|Program abends with error 228 during database backup 
+51|1067|LEAGD10   |12|3/10/2023||Error when adding new records|Received error 340: database exceeds size limit.
+52|1066|TEAM10    ||3/11/2023||Installation problem|Customer states that the setup program failed with code 203 during configuration.

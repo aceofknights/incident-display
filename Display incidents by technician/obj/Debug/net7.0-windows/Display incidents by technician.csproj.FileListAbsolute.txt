@@ -1,0 +1,16 @@
+C:\Users\sizzl\source\repos\Display incidents by technician\Display incidents by technician\bin\Debug\net7.0-windows\Display incidents by technician.exe
+C:\Users\sizzl\source\repos\Display incidents by technician\Display incidents by technician\bin\Debug\net7.0-windows\Display incidents by technician.deps.json
+C:\Users\sizzl\source\repos\Display incidents by technician\Display incidents by technician\bin\Debug\net7.0-windows\Display incidents by technician.runtimeconfig.json
+C:\Users\sizzl\source\repos\Display incidents by technician\Display incidents by technician\bin\Debug\net7.0-windows\Display incidents by technician.dll
+C:\Users\sizzl\source\repos\Display incidents by technician\Display incidents by technician\bin\Debug\net7.0-windows\Display incidents by technician.pdb
+C:\Users\sizzl\source\repos\Display incidents by technician\Display incidents by technician\obj\Debug\net7.0-windows\Display_incidents_by_technician.Form1.resources
+C:\Users\sizzl\source\repos\Display incidents by technician\Display incidents by technician\obj\Debug\net7.0-windows\Display incidents by technician.csproj.GenerateResource.cache
+C:\Users\sizzl\source\repos\Display incidents by technician\Display incidents by technician\obj\Debug\net7.0-windows\Display incidents by technician.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sizzl\source\repos\Display incidents by technician\Display incidents by technician\obj\Debug\net7.0-windows\Display incidents by technician.AssemblyInfoInputs.cache
+C:\Users\sizzl\source\repos\Display incidents by technician\Display incidents by technician\obj\Debug\net7.0-windows\Display incidents by technician.AssemblyInfo.cs
+C:\Users\sizzl\source\repos\Display incidents by technician\Display incidents by technician\obj\Debug\net7.0-windows\Display incidents by technician.csproj.CoreCompileInputs.cache
+C:\Users\sizzl\source\repos\Display incidents by technician\Display incidents by technician\obj\Debug\net7.0-windows\Display incidents by technician.dll
+C:\Users\sizzl\source\repos\Display incidents by technician\Display incidents by technician\obj\Debug\net7.0-windows\refint\Display incidents by technician.dll
+C:\Users\sizzl\source\repos\Display incidents by technician\Display incidents by technician\obj\Debug\net7.0-windows\Display incidents by technician.pdb
+C:\Users\sizzl\source\repos\Display incidents by technician\Display incidents by technician\obj\Debug\net7.0-windows\Display incidents by technician.genruntimeconfig.cache
+C:\Users\sizzl\source\repos\Display incidents by technician\Display incidents by technician\obj\Debug\net7.0-windows\ref\Display incidents by technician.dll
